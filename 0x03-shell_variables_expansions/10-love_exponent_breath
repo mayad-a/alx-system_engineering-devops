@@ -1,0 +1,2 @@
+#!/bin/bash
+let result=$BREATH**$LOVE
